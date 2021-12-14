@@ -1,0 +1,4 @@
+[submodule "bevy"]
+	path = bevy
+	url = https://github.com/yilinwei/bevy.git
+	branch = propagate-log
